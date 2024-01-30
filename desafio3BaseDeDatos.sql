@@ -1,3 +1,5 @@
+CREATE DATABASE desafio3_Francisco_Meza_333;
+
 CREATE TABLE "usuario" (
   "id" SERIAL PRIMARY KEY,
   "email" varchar UNIQUE NOT NULL,
